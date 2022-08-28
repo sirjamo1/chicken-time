@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chicken-time/static/css/main.4bd6bf3a.css",
+    "main.css": "/chicken-time/static/css/main.38313928.css",
     "main.js": "/chicken-time/static/js/main.a6818dd0.js",
     "static/js/787.6ed905b1.chunk.js": "/chicken-time/static/js/787.6ed905b1.chunk.js",
     "static/media/chickenSound.wav": "/chicken-time/static/media/chickenSound.3d910d1441e5103e1de4.wav",
     "static/media/chickenMain.png": "/chicken-time/static/media/chickenMain.9c4d0719f1046f1d9d82.png",
     "static/media/chickenWing.png": "/chicken-time/static/media/chickenWing.3fd6ff5c37681446ebef.png",
     "index.html": "/chicken-time/index.html",
-    "main.4bd6bf3a.css.map": "/chicken-time/static/css/main.4bd6bf3a.css.map",
+    "main.38313928.css.map": "/chicken-time/static/css/main.38313928.css.map",
     "main.a6818dd0.js.map": "/chicken-time/static/js/main.a6818dd0.js.map",
     "787.6ed905b1.chunk.js.map": "/chicken-time/static/js/787.6ed905b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bd6bf3a.css",
+    "static/css/main.38313928.css",
     "static/js/main.a6818dd0.js"
   ]
 }
