@@ -224,3 +224,13 @@ button {
         opacity: 1;
     }
 }
+
+
+
+@media screen and (min-width: 400px) {
+  .chicken--container {
+    position: absolute;
+    top: 300px;
+    right: 330px;
+  }  
+}
